@@ -1,7 +1,7 @@
 # Author: Wilson
 # Date  : 2015-10-09
 # Description:
-# plot xy-line of data_sub$DateTime v.s.data_sub$Global_active_power
+# plot xy-line of data_sub$DateTime v.s. data_sub$Global_active_power
 ###############################################################################
 # Load data
 source("load_data.R")
